@@ -58,8 +58,7 @@ The visualization presents the optimized staffing schedule, ensuring the balance
 
 The scheduling assumptions include:
 
-- **Seven shift per week, that each shift work for five consecutive days.**
--
+- **There are seven shift per week, that each shift work for five consecutive days.**
 - **Minimum CSR requirements for each shift based on historical call volume data.**
 - **Employees are not allowed to work more than five consecutive days.**
 
